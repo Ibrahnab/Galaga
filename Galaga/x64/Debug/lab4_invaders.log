@@ -1,0 +1,3 @@
+﻿  enemy.cpp
+C:\Users\ibrah\source\repos\Galaga\enemy.cpp(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  lab4_invaders.vcxproj -> C:\Users\ibrah\source\repos\Galaga\x64\Debug\lab4_invaders.exe
